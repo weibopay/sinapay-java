@@ -1,0 +1,1 @@
+service=query_bank_card&version=1.2&request_time=20190320143947&partner_id=2000091666666&_input_charset=utf-8&sign_type=RSA&notify_url=http://10.65.106.25:8080/JavaDemo1.5.7/Notify&return_url=http://localhost:6070/JavaDemo1.5.7/index.html&memo=&cashdesk_addr_category=&identity_id=20180625172348&identity_type=UID&card_id=&sign_version=1.0&sign=5

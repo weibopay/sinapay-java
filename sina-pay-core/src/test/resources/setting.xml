@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinapay>
+	<url>
+	   <mgs>请联系新浪支付获取</mgs>
+	   <mas>请联系新浪支付获取</mas>
+	</url>
+	<sftp>
+		<hostip></hostip>
+		<username>2000091666666</username>
+		<port>50022</port>
+	</sftp>
+</sinapay>
